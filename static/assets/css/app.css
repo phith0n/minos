@@ -39,7 +39,7 @@ body {
   height: 50px;
   width: 80px;
   background: url(../i/logo.svg) no-repeat left center;
-  -webkit-background-size: 125px 50px;
+  -webkit-background-size: 80px 50px;
   background-size: 125px 50px;
   background-position-x: 70%;
 }
